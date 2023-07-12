@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687118210056",
+    "project_id": "soulcare-757aa",
+    "storage_bucket": "soulcare-757aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687118210056:android:417d387ec44d2a1c9fedbd",
+        "android_client_info": {
+          "package_name": "com.kumush.soulcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687118210056-0u076v43p9m77vokbhjrm7eh491174og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kumush.soulcare",
+            "certificate_hash": "8657eaec8947c08dbe734c8a24ee45101d5dfe6f"
+          }
+        },
+        {
+          "client_id": "687118210056-gk0i8s6ppkgqj1nc33h1lam2e9lj2985.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdGAIEGXQ-p6v-LwVYr_acCqdYtEQBsD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687118210056-gk0i8s6ppkgqj1nc33h1lam2e9lj2985.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
